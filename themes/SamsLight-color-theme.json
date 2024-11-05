@@ -1,0 +1,14 @@
+{
+	"tokenColors": "./GitHub%20Light.tmTheme",
+	"colors": {
+		"editor.selectionBackground": "#c8c8fa",
+		"editor.lineHighlightBackground": "#fafbfc",
+		"editor.background": "#fff",
+		"editor.foreground": "#24292e",
+		"editorWhitespace.foreground": "#959da5",
+		"editorCursor.foreground": "#24292e",
+		"editor.inactiveSelectionBackground": "#fafbfc",
+		"editorIndentGuide.background": "#959da5"
+	},
+	"name": "SamsLight"
+}
